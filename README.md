@@ -3,7 +3,7 @@
   framework and resources, providing 55+ consistent exports that work      
   across QBCore, ESX, QBox, and ND_Core. Supports 13 bridged systems       
   including notifications, targets, menus, inventory, vehicle keys, fuel,  
-  phone, database, and more — covering 60+ popular resources. Drop it in   
+  phone, database, and more covering 60+ popular resources. Drop it in   
   and your scripts just work, regardless of what the server is running.    
 
   This repository contains changelogs and release notes only. The resource 
