@@ -7,4 +7,4 @@
   and your scripts just work, regardless of what the server is running.    
 
   This repository contains changelogs and release notes only. The resource 
-  is available after purchase on https://keymaster.fivem.net/asset-grants.
+  is available after purchase on https://portal.cfx.re/assets.
